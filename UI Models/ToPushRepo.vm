@@ -1,0 +1,49 @@
+{"editors": {
+    "variables": {},
+    "tabName": "ToPushRepo.vm",
+    "packIcon": {
+        "fileJson": "",
+        "fileName": "",
+        "displayName": "",
+        "source": "",
+        "projectName": "",
+        "type": "image"
+    },
+    "isValid": true,
+    "index": 0,
+    "url": "/rest",
+    "customVariables": {
+        "checksum_old": "",
+        "list": [],
+        "checksum_new": 0
+    },
+    "assetsChecksum": {
+        "checksum_old": "",
+        "checksum_new": 223132457
+    },
+    "customClasses": {},
+    "pages": [{
+        "pageLifeCycle": {
+            "selectedlifecycle": "",
+            "lifeCycle": []
+        },
+        "checksum_old": "",
+        "defaultPage": true,
+        "validName": true,
+        "name": "View1",
+        "id": "xxx_3982014",
+        "validUrl": true,
+        "routingUrl": "view1",
+        "content": {
+            "css": ".wrapper_asg_bkgrd",
+            "wrapperclasses": ["wrapper_asg_bkgrd"],
+            "wrapperstyles": {},
+            "html": "<div ui-modeller-type=\"header\" id=\"header-pqikobz9cgj\" label=\"View-1\" class=\"header\"><span id=\"span-wtgab8fl8m\">View-1<\/span><\/div>"
+        },
+        "checksum_new": 2993893446
+    }],
+    "assets": [],
+    "id": "mdt_visual_editor_root",
+    "validations": {},
+    "globalCss": "*{ box-sizing: border-box; } body{margin: 0;} .fix8d0a106e05b2{position: fixed;}"
+}}
